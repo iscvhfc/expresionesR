@@ -1,1 +1,2 @@
 esto es la presentación de expresiones regulares  let expre = /busqueda/
+o new expreg();
